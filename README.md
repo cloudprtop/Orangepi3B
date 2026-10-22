@@ -1,4 +1,4 @@
-# Orange Pi 3B (RK3566) 定制 Armbian 镜像 — 编译 · 测试 · 踩坑记录
+# Orange Pi 3B (RK3566) 定制 Armbian 镜像 — 编译 · 测试 · 踩坑记录（全程由ai进行编译）
 
 给 **Xunlong Orange Pi 3B V2.1**（RK3566）从源码编译 Armbian，并把一批板级问题（风扇不转、网口黄灯不亮、登录状态页消失、IPv6 刷屏、WiFi 固件告警）固化进镜像，最后做一轮全硬件体检与跑分。
 
